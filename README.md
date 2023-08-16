@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tharun</h1>
-<h3 align="center">I want to be a passionate frontend developer.</h3>
 
 - 🌱 I’m currently learning **Java**
 
